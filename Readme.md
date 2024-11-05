@@ -4,7 +4,7 @@ This is a complete pipeline created using Verilog as a part of the Course EC6001
 
 Gaurav Bhardwaj : 21EC39010
 Shivam Yadaw : 21EC39046
-Shreeya Singhal : 21C39032
+Shreeya Singhal : 21EC39032
 Shaily Jain : 21EC10066
 Tejas Kamble : 21EC10080
 
