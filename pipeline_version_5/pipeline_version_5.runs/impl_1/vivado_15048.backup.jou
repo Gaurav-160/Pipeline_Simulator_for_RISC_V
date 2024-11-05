@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sat Nov  2 10:10:50 2024
+# Process ID: 15048
+# Current directory: C:/Users/HP/Desktop/4th/7th sem/acsa/termProject/PIPELINE-GROUP-13-BATCH-2021-CO-LAB-IIT-PALAKKAD/CO LAB 7/pipeline_version_5_WITH INSTRUCTION CACHE/pipeline_version_5.runs/impl_1
+# Command line: vivado.exe -log testbench.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source testbench.tcl -notrace
+# Log file: C:/Users/HP/Desktop/4th/7th sem/acsa/termProject/PIPELINE-GROUP-13-BATCH-2021-CO-LAB-IIT-PALAKKAD/CO LAB 7/pipeline_version_5_WITH INSTRUCTION CACHE/pipeline_version_5.runs/impl_1/testbench.vdi
+# Journal file: C:/Users/HP/Desktop/4th/7th sem/acsa/termProject/PIPELINE-GROUP-13-BATCH-2021-CO-LAB-IIT-PALAKKAD/CO LAB 7/pipeline_version_5_WITH INSTRUCTION CACHE/pipeline_version_5.runs/impl_1\vivado.jou
+# Running On: PC-Gaurav16, OS: Windows, CPU Frequency: 2419 MHz, CPU Physical cores: 4, Host memory: 8317 MB
+#-----------------------------------------------------------
+source testbench.tcl -notrace
