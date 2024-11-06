@@ -2,11 +2,11 @@
 
 This is a complete pipeline created using Verilog as a part of the Course EC60013: Advanced Computer System Architecture by :
 
-Gaurav Bhardwaj : 21EC39010
-Shivam Yadaw : 21EC39046
-Shreeya Singhal : 21EC39032
-Shaily Jain : 21EC10066
-Tejas Kamble : 21EC10080
+Gaurav Bhardwaj: 21EC39010 <br />
+Shivam Yadav: 21EC39046 <br />
+Shreeya Singhal: 21EC39032 <br />
+Shaily Jain: 21EC10066 <br />
+Tejas Kamble: 21EC10080
 
 The source code as text files can be found in the current folder as pipeline.txt and testbench.txt
 
